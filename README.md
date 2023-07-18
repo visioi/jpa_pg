@@ -1,1 +1,1 @@
-# jpa_pg
+# jpa programming
